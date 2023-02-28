@@ -1,3 +1,6 @@
+nav a:hover{
+    font-weight: bolder;
+}
 .styled-table {
     
     border-collapse: collapse;
@@ -106,9 +109,13 @@ body {
 
 footer{
     background-color: black;
-    margin: auto;
+    
 }
 .article{
     margin-left: 20%;
     margin-right: 20%;
+}
+.article h1{
+    font-family: sans-serif;
+    font-weight: bolder;
 }

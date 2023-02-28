@@ -22,7 +22,8 @@
   font-size:16px;
   text-transform:uppercase;
   margin-top:5px;
-  letter-spacing:2px
+  letter-spacing:2px;
+  text-align: center;
 }
 .site-footer a
 {
@@ -36,7 +37,8 @@
 .footer-links
 {
   padding-left:0;
-  list-style:none
+  list-style:none;
+  text-align: center;
 }
 .footer-links li
 {
@@ -53,11 +55,12 @@
 }
 .footer-links.inline li
 {
-  display:inline-block
+  display:inline-block;
+  text-align: center;
 }
 .site-footer .social-icons
 {
-  text-align:right
+  text-align:center
 }
 .site-footer .social-icons a
 {
@@ -71,7 +74,8 @@
 }
 .copyright-text
 {
-  margin:0
+  margin:5px;
+  
 }
 @media (max-width:991px)
 {
@@ -95,7 +99,8 @@
 {
   padding-left:0;
   margin-bottom:0;
-  list-style:none
+  list-style:none;
+  text-align: center;
 }
 .social-icons li
 {
